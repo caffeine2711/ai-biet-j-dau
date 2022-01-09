@@ -20,7 +20,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Ai biết j đâu ;-;',
     mess: 'ai biết j đâu ;-; ',
-    messDesc: 'tối nay cho tớ chơi game với :',
+    messDesc: 'anh xin lỗi mờ :',
     btnAccept: 'Okiiiii lun :3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/3107.lilraven/
 }
