@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyensu5120/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Bạn à! -____-',
+    introDesc: `Cổ nhân có câu:
+    zảo shang hảo tung của
+    xiên zai wuo zhou Bing Chilling
+    wuo han xi khoan Bing Chilling`,
+    btnIntro: '😒😒😒',
+    title: 'Mua đầy đủ rồi xin địa chỉ để ship thì không cho -_-',
+    desc: 'Làm 3 thằng hôm qua uống bia ăn bim bim',
+    btnYes: 'Nhấn vào đây để cho địa chỉ',
+    btnNo: 'Để suy nghĩ lại đã',
+    question:'Cho rồi thì nhập địa chỉ vào đây nha ',
+    btnReply: 'Gửi :D',
+    reply: 'Để gửi địa chỉ nhà qua facebook cho ha :D',
+    mess: 'hehehe, được luôn 😎',
+    messDesc: 'Tối nay 7h có mặt trước cửa nhà nhá',
+    btnAccept: 'eheheheheh',
+    messLink: 'https://www.facebook.com/3107.lilraven'
 }
